@@ -94,6 +94,12 @@ const home = () => {
             price: "Rs. 450",
             rating: "4.3",
           },
+          {
+            image: "https://images.unsplash.com/photo-1694579740719-0e601c5d2437?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            name: "Shikari Karahi",
+            price: "Rs. 850",
+            rating: "4.5",
+          },
           ]}
           horizontal
           showsHorizontalScrollIndicator={false}
