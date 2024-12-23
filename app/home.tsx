@@ -101,8 +101,8 @@ const home = () => {
             rating: "4.5",
           },
           {
-            image: "https://images.unsplash.com/photo-1694579740719-0e601c5d2437?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            name: "Afghani boti",
+            image: "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            name: "Beaf Steak",
             price: "Rs. 750",
             rating: "4.5",
           },
