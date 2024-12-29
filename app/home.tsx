@@ -53,7 +53,7 @@ const home = () => {
           renderItem={({ item }) => (
             <TouchableOpacity
               onPress={() => setactiveitem(item)}
-              className={`${activeitem == item ? "bg-purple-600 px-5 py-3 rounded-xl mt-6" : "mt-6 py-3 px-5"}`}>
+              className={`${activeitem == item ? "bg-purple-600 px-5 py-3 rounded-xl mt-6" : "mt-6 py-3 px-4"}`}>
               <Text className={`${activeitem == item ? "text-white" : "text-black"}`}>{item}</Text>
             </TouchableOpacity>
           )}
