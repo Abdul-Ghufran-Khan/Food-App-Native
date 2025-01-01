@@ -10,7 +10,7 @@ const home = () => {
     <ScrollView showsVerticalScrollIndicator={false}>
     <View className='bg-white'>
       <Image className='!w-full !h-60 absolute rounded-b-2xl' source={require("../assets/images/loadphoto.jpg")} />
-      <View className='flex flex-row justify-between items-center px-5 mt-12'>
+      <View className='flex flex-row justify-between items-center px-5 mt-10'>
         <Text className='text-white text-2xl font-extrabold'>Food Mania</Text>
         <TouchableOpacity>
           <Image className='!w-10 !h-10 rounded-full border-2 border-purple-900' source={require("../assets/images/profilelogo.jpg")} />
