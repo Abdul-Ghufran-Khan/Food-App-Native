@@ -32,7 +32,7 @@ const home = () => {
 
       <View className='flex-row px-6 mt-16 flex justify-between items-center'>
         <Text className='text-xl font-extrabold tracking-wider'>Popular Food</Text>
-        <TouchableOpacity className='bg-purple-600 px-3 py-2 rounded-xl'>
+        <TouchableOpacity className='bg-purple-600 px-3 py-3 rounded-xl'>
           <Text className='text-white'>View More</Text>
         </TouchableOpacity>
       </View>
