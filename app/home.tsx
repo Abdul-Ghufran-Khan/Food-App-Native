@@ -37,7 +37,7 @@ const home = () => {
         </TouchableOpacity>
       </View>
 
-      <View className='px-5 mt-3'>
+      <View className='px-5 mt-4'>
         <FlatList
           data={[
             "Most Viewed",
